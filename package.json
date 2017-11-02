@@ -1,8 +1,12 @@
 {
-  "name": "metamas-auth",
+  "name": "metamask-auth",
   "version": "1.0.0",
   "description": "Sample project shoving blockhain authentication using Metamask",
   "main": "index.js",
   "author": "albert.balinski@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.4"
+  }
 }
