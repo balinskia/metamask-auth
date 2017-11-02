@@ -6,6 +6,9 @@
   "author": "albert.balinski@gmail.com",
   "license": "MIT",
   "dependencies": {
+    "cookies-js": "^1.2.3",
+    "eth-sig-util": "^1.4.0",
+    "ethereumjs-util": "^5.1.2",
     "webpack": "^3.8.1",
     "webpack-dev-server": "^2.9.4"
   }
